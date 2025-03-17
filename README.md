@@ -1,0 +1,1 @@
+# afd-web-storage-activity
